@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxfrisson
 - 👀 I’m interested in web development, films, serials, music, sport, self-improvement.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate with anyone if you please :)
+- 💞️ I’m looking to collaborate with anyone :)
 - 📫 You can find me on my website https://maxfrisson.github.io/portfolio/
 
 <!---
